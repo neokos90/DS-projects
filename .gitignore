@@ -1,1 +1,3 @@
+# Исключаем папку
+/module_1/.ipynb_checkpoints/*
 /module_1/*.ipynb
